@@ -11,10 +11,10 @@
 | 03  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/03) | [Link](https://youtu.be/2Qs0EuqJIYA) |
 | 04  |    交錯漂浮版    | [Demo](https://alan10332000.github.io/css-layout-practice/04) | [Link](https://youtu.be/aN7zFs_AT8s) |
 | 05  |  超通用橫式版面  | [Demo](https://alan10332000.github.io/css-layout-practice/05) | [Link](https://youtu.be/-mmzaE6eLzY) |
-| 06  | 切版技巧原理彙整 |                                                               | [Link](https://youtu.be/R6q87Rfs0PM) |
+| 06  | 切版技巧原理彙整 |                               -                               | [Link](https://youtu.be/R6q87Rfs0PM) |
 | 07  |   網頁頁尾版塊   | [Demo](https://alan10332000.github.io/css-layout-practice/06) | [Link](https://youtu.be/Y02yl_QQNv0) |
-| 08  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/08) |               [Link]()               |
-| 09  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/09) |               [Link]()               |
+| 08  |      導覽列      | [Demo](https://alan10332000.github.io/css-layout-practice/07) | [Link](https://youtu.be/7BydlKueTgY) |
+| 09  |  變化你的導覽列  | [Demo](https://alan10332000.github.io/css-layout-practice/08) | [Link](https://youtu.be/9xT8kziyYko) |
 | 10  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/10) |               [Link]()               |
 | 11  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/11) |               [Link]()               |
 | 12  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/12) |               [Link]()               |
