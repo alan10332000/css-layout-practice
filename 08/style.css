@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+/* first */
+.main-header-first {
+  background: linear-gradient(0deg, #ffad4d, #d72785, #4c5be1)
+}
+
+.main-header-first .container-first {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  justify-content: space-around;
+}
+
+.main-header-first .logo-first {
+  width: 100px;
+}
+
+.main-header-first .logo-first img {
+  width: 100%;
+  vertical-align: middle;
+}
+
+.main-header-first .main-nav-first {
+  display: flex;
+}
+
+.main-header-first .main-nav-first a {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 30px;
+  padding: 5px 40px;
+  position: relative;
+  transform: translateY(0);
+  transition: .3s;
+}
+
+.main-header-first .main-nav-first a:hover {
+  transform: translateY(-10px);
+}
+
+.main-header-first .main-nav-first a:after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  bottom: -3px;
+  height: 0;
+  border-bottom: solid 1px #fff;
+  transition: .3s;
+}
+
+.main-header-first .main-nav-first a:hover:after {
+  left: 0;
+  right: 0;
+}
+
+/* space */
+.space {
+  height: 100px;
+}
+
+/* second */
+.main-header-second {
+  background: linear-gradient(0deg, #ffad4d, #d72785, #4c5be1)
+}
+
+.main-header-second .container-second {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  justify-content: center;
+}
+
+.main-header-second .logo-second {
+  width: 100px;
+}
+
+.main-header-second .logo-second img {
+  width: 100%;
+  vertical-align: middle;
+}
+
+.main-header-second .main-nav-second {
+  display: flex;
+}
+
+.main-header-second .main-nav-second a {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 60px;
+  padding: 5px 60px;
+  position: relative;
+  transform: translateY(0);
+  transition: .3s;
+}
+
+.main-header-second .main-nav-second a:hover {
+  transform: translateY(-10px);
+}
+
+.main-header-second .main-nav-second a:after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  bottom: -3px;
+  height: 0;
+  border-bottom: solid 1px #fff;
+  transition: .3s;
+}
+
+.main-header-second .main-nav-second a:hover:after {
+  left: 20%;
+  right: 20%;
+}
