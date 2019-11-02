@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.wrap {
+  padding: 10px 0;
+  background-color: #202020;
+}
+
+.breadcrumb {
+  width: 90%;
+  margin: auto;
+  display: flex;
+}
+
+.breadcrumb li {
+  padding: 0 20px;
+  font-weight: 100;
+}
+
+.breadcrumb a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.breadcrumb a:hover {
+  color: #ccc;
+}
+
+.breadcrumb li+li {
+  padding-left: 0;
+}
+
+.breadcrumb li+li::before {
+  content: '>';
+  color: #fff;
+  margin-right: 20px;
+}
+
+.breadcrumb li:last-child a {
+  color: #fa0;
+}

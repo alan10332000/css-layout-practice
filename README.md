@@ -15,8 +15,8 @@
 | 07  |   網頁頁尾版塊   | [Demo](https://alan10332000.github.io/css-layout-practice/06) | [Link](https://youtu.be/Y02yl_QQNv0) |
 | 08  |      導覽列      | [Demo](https://alan10332000.github.io/css-layout-practice/07) | [Link](https://youtu.be/7BydlKueTgY) |
 | 09  |  變化你的導覽列  | [Demo](https://alan10332000.github.io/css-layout-practice/08) | [Link](https://youtu.be/9xT8kziyYko) |
-| 10  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/10) |               [Link]()               |
-| 11  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/11) |               [Link]()               |
+| 10  |    網站麵包屑    | [Demo](https://alan10332000.github.io/css-layout-practice/09) | [Link](https://youtu.be/n0yPFtpVRLU) |
+| 11  |    方塊酥版面    | [Demo](https://alan10332000.github.io/css-layout-practice/10) | [Link](https://youtu.be/Xhhzzc9YZW4) |
 | 12  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/12) |               [Link]()               |
 | 13  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/13) |               [Link]()               |
 | 14  |   人員介紹卡片   | [Demo](https://alan10332000.github.io/css-layout-practice/14) |               [Link]()               |
