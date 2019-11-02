@@ -9,8 +9,8 @@
 | 01  |  圖文滿版區塊  | [Demo](https://alan10332000.github.io/css-layout-practice/01) | [Link](https://youtu.be/rwTMBmnIHcY) |
 | 02  |  互動圖文卡片  | [Demo](https://alan10332000.github.io/css-layout-practice/02) | [Link](https://youtu.be/IocyLERRdko) |
 | 03  |  人員介紹卡片  | [Demo](https://alan10332000.github.io/css-layout-practice/03) | [Link](https://youtu.be/2Qs0EuqJIYA) |
-| 04  |   交錯漂浮版   | [Demo](https://alan10332000.github.io/css-layout-practice/04) |               [Link]()               |
-| 05  | 超通用橫式版面 | [Demo](https://alan10332000.github.io/css-layout-practice/05) |               [Link]()               |
+| 04  |   交錯漂浮版   | [Demo](https://alan10332000.github.io/css-layout-practice/04) | [Link](https://youtu.be/aN7zFs_AT8s) |
+| 05  | 超通用橫式版面 | [Demo](https://alan10332000.github.io/css-layout-practice/05) | [Link](https://youtu.be/-mmzaE6eLzY) |
 | 06  |  人員介紹卡片  | [Demo](https://alan10332000.github.io/css-layout-practice/06) |               [Link]()               |
 | 07  |  人員介紹卡片  | [Demo](https://alan10332000.github.io/css-layout-practice/07) |               [Link]()               |
 | 08  |  人員介紹卡片  | [Demo](https://alan10332000.github.io/css-layout-practice/08) |               [Link]()               |
