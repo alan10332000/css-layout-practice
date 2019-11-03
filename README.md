@@ -1,5 +1,7 @@
 # 金魚都能懂的網頁切版
 
+[Demo Link](https://alan10332000.github.io/css-layout-practice)
+
 [Youtube Link](https://www.youtube.com/playlist?list=PLqivELodHt3hxeuLX8PYaI8u1GcDaBoJo)
 
 ## 列表
@@ -18,7 +20,7 @@
 | 10  |     網站麵包屑     | [Demo](https://alan10332000.github.io/css-layout-practice/09) | [Link](https://youtu.be/n0yPFtpVRLU) |
 | 11  |     方塊酥版面     | [Demo](https://alan10332000.github.io/css-layout-practice/10) | [Link](https://youtu.be/Xhhzzc9YZW4) |
 | 12  |     破格式設計     | [Demo](https://alan10332000.github.io/css-layout-practice/11) | [Link](https://youtu.be/l-sQNXNrw3s) |
-| 13  |     表格怎麼切     | [Demo](https://alan10332000.github.io/css-layout-practice/12) |               [Link]()               |
+| 13  |     表格怎麼切     | [Demo](https://alan10332000.github.io/css-layout-practice/12) | [Link](https://youtu.be/zRREfvlLFIU) |
 | 14  |   側邊選單怎麼切   | [Demo](https://alan10332000.github.io/css-layout-practice/13) |               [Link]()               |
 | 15  |   收合式側邊選單   | [Demo](https://alan10332000.github.io/css-layout-practice/14) |               [Link]()               |
 | 16  |   多層次收合選單   | [Demo](https://alan10332000.github.io/css-layout-practice/15) |               [Link]()               |
