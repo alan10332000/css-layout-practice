@@ -29,8 +29,8 @@
 | 19  |    訊息對話紀錄    | [Demo](https://alan10332000.github.io/css-layout-practice/18) | [Link](https://youtu.be/1tYhnmhdGNY) |
 | 20  |       時間軸       | [Demo](https://alan10332000.github.io/css-layout-practice/19) | [Link](https://youtu.be/AiR22hCQOGs) |
 | 21  |    旋轉拼接方塊    | [Demo](https://alan10332000.github.io/css-layout-practice/20) | [Link](https://youtu.be/QKGhYoRHJnI) |
-| 22  | 切版技巧原理彙整 2 |                               -                               |               [Link]()               |
-| 23  |     不規則邊緣     | [Demo](https://alan10332000.github.io/css-layout-practice/21) |               [Link]()               |
+| 22  | 切版技巧原理彙整 2 |                               -                               | [Link](https://youtu.be/cU43gPItOns) |
+| 23  |     不規則邊緣     | [Demo](https://alan10332000.github.io/css-layout-practice/21) | [Link](https://youtu.be/7SFuF9XE24s) |
 | 24  |   文字排版－上集   | [Demo](https://alan10332000.github.io/css-layout-practice/22) |               [Link]()               |
 | 25  |   文字排版－中集   | [Demo](https://alan10332000.github.io/css-layout-practice/23) |               [Link]()               |
 | 26  |   文字排版－下集   | [Demo](https://alan10332000.github.io/css-layout-practice/24) |               [Link]()               |
