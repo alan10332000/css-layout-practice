@@ -43,38 +43,6 @@ body {
   column-gap: 30px;
 }
 
-.container-first {
-  width: 1200px;
-  margin: auto;
-  display: flex;
-  padding: 100px 0;
-}
-
-.container-first h1 {
-  width: 400px;
-  text-align: right;
-  box-sizing: border-box;
-  padding: 20px 15px 0;
-  background-color: #d5c7b9;
-}
-
-.container-first h1::after {
-  content: '';
-  display: block;
-  width: 4em;
-  height: 4px;
-  background-color: #000;
-  margin-left: auto;
-}
-
-.container-first .txt-first {
-  width: 800px;
-  box-sizing: border-box;
-  padding: 0 15px;
-  column-count: 2;
-  column-gap: 30px;
-}
-
 /* second */
 .container-second {
   width: 1200px;
