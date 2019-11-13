@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+/* first */
+.wrap-first {
+  margin: 100px 0;
+}
+
+.container-first {
+  position: relative;
+  width: 1200px;
+  margin: auto;
+}
+
+.container-first .txt-first {
+  column-count: 2;
+  column-gap: 460px;
+}
+
+.container-first h1 {
+  width: 400px;
+  box-sizing: border-box;
+  padding: 25px;
+  background-color: #eee;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.container-first p {
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+.container-first p:first-child::first-letter {
+  font-size: 40px;
+  float: left;
+  padding-right: 6px;
+}
+
+/* second */
+.wrap-second {
+  margin: 100px 0;
+}
+
+.container-second {
+  position: relative;
+  width: 1200px;
+  margin: auto;
+}
+
+.container-second .txt-second {
+  column-count: 2;
+  column-gap: 30px;
+}
+
+.container-second h1 {
+  width: 400px;
+  box-sizing: border-box;
+  padding: 25px;
+  color: #aaa;
+  float: right;
+  font-size: 80px;
+  position: relative;
+}
+
+.container-second h1::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: solid 30px #eee;
+  top: 140px;
+  z-index: -1;
+}
+
+.container-second p {
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+
+/* third */
+.wrap-third {
+  margin: 100px 0;
+}
+
+.container-third {
+  position: relative;
+  width: 1200px;
+  margin: auto;
+}
+
+.container-third .txt-third {
+  column-count: 2;
+  column-gap: 30px;
+}
+
+.container-third h1 {
+  width: 400px;
+  box-sizing: border-box;
+  padding: 25px;
+  color: #aaa;
+  float: right;
+  font-size: 80px;
+  position: relative;
+}
+
+.container-third h1::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: solid 30px #f1c555;
+  top: 140px;
+  z-index: -1;
+  transform: rotate(20deg);
+}
+
+.container-third p {
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
